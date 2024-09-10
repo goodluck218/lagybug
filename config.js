@@ -3,7 +3,7 @@
 //NOTE: how to become a public owner, please go to file; all/database/owner.json
 // CREDIT : DELTA,HW MODS
 require("./all/module")
-global.owner = "2348100151048" 
+global.owner = "2348120055226" 
 global.namaCreator = "ABRO TECH" 
 global.autoJoin = false 
 global.antilink = false 
